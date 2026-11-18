@@ -1,5 +1,4 @@
 //Write a code to print the Fibonacci series (10 digits)
-//LEARN THIS!!!
 public class Fibo 
 {
     public static void main(String[] args)
